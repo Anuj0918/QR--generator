@@ -5,22 +5,22 @@
      box-sizing: border-box;
 }
 body{
-     background: darkgrey;
+     background:blueviolet;
       
 }
 .container{
     width: 400px;
      padding: 30px 30px;
      position: absolute;
-     top: 40%;
+     top: 44%;
      left: 38%;
      background: #fff;
      border-radius: 10px;
     
 }
 .container p{
-     font-weight: 580;
-     font-size: 17px;
+     font-weight: 590;
+     font-size: 19px;
      margin-bottom:18px ;
 
 }
